@@ -6,4 +6,4 @@
 
 ## Доп. материалы
 
-Лекция 9. Метод сканирующей прямой, [pdf](http://shujkova.ru/sites/default/files/lec8.pdf)
+Шуйкова И.А. и др., Лекция 9. Метод сканирующей прямой, [pdf](http://shujkova.ru/sites/default/files/lec8.pdf)
